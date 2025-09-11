@@ -31,7 +31,7 @@ ArtOfChefs/
 
 ## 🧑‍💻 Author
 
-Developed by **[Tanisha Kavani Rajubhai]** ✨
+Developed by **[Kavani Tanisha Rajubhai]** ✨
 
 ---
 
