@@ -44,6 +44,10 @@ ATM-Machine/
 │── README.md             # Documentation
 ```
 
+## 🧑‍💻 Author
+
+Developed by **[Kavani Tanisha Rajubhai]** ✨
+
 ---
 
 ## ⚙️ How to Compile & Run  
